@@ -1,0 +1,1 @@
+Simple OpenCV Document Scanner
